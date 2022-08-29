@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "rfp-day47-ajax-async-callback-promise",
+  "description": "",
+  "version": "1.0.0",
+  "main": "ajaxCallback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "serve-json": "json-server --watch empDb.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarchavan07/RFP-day47-Ajax-Async-Callback-Promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarchavan07/RFP-day47-Ajax-Async-Callback-Promise/issues"
+  },
+  "homepage": "https://github.com/sagarchavan07/RFP-day47-Ajax-Async-Callback-Promise#readme"
+}
